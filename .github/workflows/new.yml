@@ -4,6 +4,6 @@ on:
   push:
 
 jobs:
-  new build:
+  new-build:
     uses: bliuweij/popular-repos-web-app/.github/workflows/build.yml@main
     
