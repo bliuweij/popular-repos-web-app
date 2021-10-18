@@ -5,5 +5,5 @@ on:
 
 jobs:
   new build:
-    uses: bliuweij/popular-repos-web-app/.github/workflows/build.yml@Build Site
+    uses: bliuweij/popular-repos-web-app/.github/workflows/build.yml@main
     
