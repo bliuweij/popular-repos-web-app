@@ -1,0 +1,9 @@
+name: Build Site new
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  new build:
+    uses: .github/workflows/build.yml@Build Site
+    
